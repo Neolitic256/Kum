@@ -33,8 +33,11 @@ a:link, a:visited{
 	border:2px solid midnightblue;
 	border-radius:5px;
 	width:25%;
+	height:50px;
+	line-height:50px;
 	text-align:center;
 	font-weight:bold;
+	font-sixe:30px;		
 	text-decoration:none;
 	display:inline-block;
 }
@@ -42,6 +45,7 @@ a:hiver, a:sctive{
 	margin:5px;
 	background-color:midnightblue;
 	color:white;
+	
 }
 
 main{
