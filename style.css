@@ -41,7 +41,7 @@ a:link, a:visited{
 	text-decoration:none;
 	display:inline-block;
 }
-a:hiver, a:sctive{
+a:hover, a:active{
 	margin:5px;
 	background-color:midnightblue;
 	color:white;
